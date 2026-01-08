@@ -32,6 +32,15 @@ An Automatic Speech Recognition (ASR) system for transcribing Nepali speech to t
 
 ---
 
+### 🌐 Use Cases
+
+- **Transcription Services**: Convert Nepali audio/video content to text
+- **Subtitle Generation**: Auto-generate Nepali subtitles for videos
+- **Voice Assistants**: Build Nepali voice-enabled applications
+- **Accessibility**: Help hearing-impaired users access Nepali audio content
+- **Research**: Academic research on Nepali language processing
+- **Education**: Language learning and pronunciation tools
+
 ## 🚀 Quick Start
 
 ### Using the Model (HuggingFace - Recommended)
